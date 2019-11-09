@@ -16,7 +16,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        fadsfdsafsd
+        My first React App
       </div>
     )
   }
